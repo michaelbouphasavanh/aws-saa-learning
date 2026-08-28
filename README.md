@@ -1,5 +1,5 @@
-# AWS SAA Learning AWS Certified Solutions Architect - Associate (SAA-C03)
-Hands-on AWS labs and notes while studying for the AWS SAA
+# AWS SAA Learning 
+Hands-on AWS labs and notes while studying for the AWS Certified Solutions Architect - Associate (SAA-C03)
 
 This repository documents my hands-on learning while preparing for the AWS SAA
 
