@@ -6,7 +6,7 @@ This repository documents my hands-on learning while preparing for the AWS SAA
 ## Goals
 -Build practical AWS experience
 -Document labs and architecture
-Learn Git and GitHub
+-Learn Git and GitHub
 -Develop cloud engineering skills
 
 ## Topics
